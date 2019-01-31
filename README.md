@@ -1,4 +1,8 @@
 # ipynb_converter
+## jekyll markdown 변환을 위한 converter
+jekyll에서 사용되는 markdown 파일을 변환시켜 준다.
+원하는 카테고리를 이용할 수 있으며 YAML을 자동적으로 변경시켜 준다.
+사진파일 경로 또한 Liquid에 맞게 변환
 
 
 
